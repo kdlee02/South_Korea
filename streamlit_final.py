@@ -303,8 +303,6 @@ if mode == "South Korea Exports":
                 color_continuous_scale="Viridis",
             )
             fig3.update_layout(
-                width=800,
-                height=650
             )
     
             st.subheader(f"{selected_product} Export Countries")
