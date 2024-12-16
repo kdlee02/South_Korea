@@ -1,3 +1,7 @@
-streamlit
 pandas
 numpy
+math
+streamlit
+requests
+plotly
+altair
