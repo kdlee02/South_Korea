@@ -1,0 +1,101 @@
+Rank,Company,Symbol,Market Cap,Sector,Industry,Market_Cap,Revenue
+1,Samsung,005930.KS,$260.13 B,Technology,Consumer Electronics,260.13,292.861102784512
+2,SK Hynix,000660.KS,$84.53 B,Technology,Semiconductors,84.53,49.224532099072
+3,LG Energy Solution,373220.KS,$65.94 B,Industrials,Electrical Equipment & Parts,65.94,28.515445506048
+4,Samsung Biologics,207940.KS,$48.89 B,Healthcare,Biotechnology,48.89,4.21128962048
+5,Hyundai,HYMTF,$37.04 B,Consumer Cyclical,Auto Manufacturers,37.04,162.7
+6,Celltrion,068270.KS,$27.69 B,Healthcare,Biotechnology,27.69,2.666610819072
+7,Kia,000270.KS,$27.05 B,Consumer Cyclical,Auto Manufacturers,27.05,103.654304514048
+8,KB Financial Group,KB,$22.24 B,Financial Services,Banks - Regional,22.24,13.61226235904
+9,Naver,035420.KS,$21.78 B,Communication Services,Internet Content & Information,21.78,10.118838091776
+10,Shinhan Financial Group,SHG,$17.58 B,Financial Services,Banks - Regional,17.58,14.690399813632
+11,Korea Zinc,010130.KS,$17.22 B,Basic Materials,Other Industrial Metals & Mining,17.22,10.141305929728
+12,Hyundai Mobis,012330.KS,$15.51 B,Consumer Cyclical,Auto Parts,15.51,57.426975916032
+13,POSCO,PKX,$14.13 B,Basic Materials,Steel,14.13,73.547196137472
+14,LG Chem,051910.KS,$14.10 B,Basic Materials,Chemicals,14.1,50.538733371392
+15,Kakao,035720.KS,$14.03 B,Communication Services,Internet Content & Information,14.03,8.003226435584
+16,Samsung Life Insurance,032830.KS,$12.99 B,Financial Services,Insurance - Life,12.99,29.318285623296
+17,SK Innovation,096775.KS,$12.41 B,Energy,Oil & Gas Refining & Marketing,12.41,77.072609312768
+18,Hana Financial Group,086790.KS,$11.82 B,Financial Services,Banks - Regional,11.82,10.180906450944
+19,Samsung SDI,006405.KS,$11.77 B,Industrials,Electrical Equipment & Parts,11.77,21.093901402112
+20,Alteogen,196170.KQ,$11.73 B,Healthcare,Biotechnology,11.73,0.090787643392
+21,HMM,011200.KS,$11.53 B,Industrials,Marine Shipping,11.53,9.182716624896
+22,Krafton,259960.KS,$10.78 B,Communication Services,Electronic Gaming & Multimedia,10.78,2.35775983616
+23,LG Electronics,066570.KS,$10.52 B,Technology,Consumer Electronics,10.52,86.603754110976
+24,Hanwha Aerospace,012450.KS,$10.23 B,Industrials,Aerospace & Defense,10.23,10.047485640704
+25,Korea Electric Power,KEP,$9.64 B,Utilities,Utilities - Regulated Electric,9.64,92.403461521408
+26,POSCO Chemical,003670.KS,$9.33 B,Basic Materials,Building Materials,9.33,4.485520818176
+27,Ecopro BM,247540.KQ,$9.18 B,Industrials,Electrical Equipment & Parts,9.18,4.763627290624
+28,KT&G (Korea Tobacco),033780.KS,$8.71 B,Consumer Defensive,Tobacco,8.71,5.79377823744
+29,SK Telecom,SKM,$8.51 B,Communication Services,Telecom Services,8.51,17.956400529408
+30,LG Corp,003550.KS,$8.17 B,Technology,Consumer Electronics,8.17,7.344702881792
+31,Woori Financial Group,WF,$8.16 B,Financial Services,Banks - Regional,8.16,10.406976290816
+32,Industrial Bank of Korea (IBK),024110.KS,$8.16 B,Financial Services,Banks - Regional,8.16,9.012399570944
+33,KakaoBank,323410.KS,$8.13 B,Financial Services,Banks - Regional,8.13,1.441229963264
+34,KT Corporation,KT,$7.98 B,Communication Services,Telecom Services,7.98,26.454200942592
+35,Doosan Enerbility,034020.KS,$7.95 B,Industrials,Specialty Industrial Machinery,7.95,16.498426904576
+36,DSME (Daewoo Shipbuilding),042660.KS,$7.26 B,Industrials,Aerospace & Defense,7.26,8.967494303744
+37,Ecopro,086520.KQ,$6.62 B,Materials,Chemicals,6.62,7.26
+38,Korean Air Lines,003495.KS,$6.22 B,Industrials,Airlines,6.22,17.336102813696
+39,Samsung Electro-Mechanics,009155.KS,$6.22 B,Technology,Electronic Components,6.22,9.871583870976
+40,Hyundai Glovis,086280.KS,$6.20 B,Industrials,Integrated Freight & Logistics,6.2,26.498293563392
+41,Yuhan,000100.KS,$6.15 B,Healthcare,Drug Manufacturers - Specialty & Generic,6.15,1.893119295488
+42,HYBE,352820.KS,$5.94 B,Communication Services,Entertainment,5.94,2.147845668864
+43,SK Group,034730.KS,$5.27 B,Industrials,Conglomerates,5.27,131.701531475968
+44,Amorepacific,090430.KS,$4.79 B,Consumer Defensive,Household & Personal Products,4.79,3.631085518848
+45,S-OIL,010950.KS,$4.60 B,Energy,Oil & Gas Refining & Marketing,4.6,37.708793643008
+46,Korea Aerospace Industries,047810.KS,$3.76 B,Industrials,Aerospace & Defense,3.76,4.148880211968
+47,LG Household & Health Care,051905.KS,$3.66 B,Consumer Defensive,Household & Personal Products,3.66,6.801767530496
+48,Samyang Foods,003230.KS,$3.56 B,Consumer Defensive,Packaged Foods,3.56,1.472184188928
+49,Coway,021240.KS,$3.49 B,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3.49,4.096151257088
+50,Hankook Tire,161390.KS,$3.39 B,Consumer Cyclical,Auto Parts,3.39,9.017243992064
+51,Netmarble,251270.KS,$3.31 B,Communication Services,Electronic Gaming & Multimedia,3.31,2.663589871616
+52,LG Display,LPL,$3.23 B,Technology,Consumer Electronics,3.23,26.178379317248
+53,Kakao Pay,377300.KS,$3.13 B,Technology,Software - Infrastructure,3.13,0.68688248832
+54,Doosan Bobcat,241560.KS,$3.06 B,Industrials,Farm & Heavy Construction Machinery,3.06,8.784364699648
+55,ORION,271560.KS,$2.91 B,Consumer Defensive,Confectioners,2.91,3.002338639872
+56,NCsoft,036570.KS,$2.87 B,Communication Services,Electronic Gaming & Multimedia,2.87,1.627596128256
+57,Doosan,000150.KS,$2.60 B,Industrials,Conglomerates,2.6,18.865226514432
+58,SHIFT UP,462870.KS,$2.56 B,Communication Services,Entertainment,2.56,1.686
+59,Kangwon Land,035250.KS,$2.39 B,Consumer Cyclical,Resorts & Casinos,2.39,1.405647847424
+60,Korea Gas,036460.KS,$2.03 B,Utilities,Utilities - Regulated Gas,2.03,38.798901641216
+61,Hanwha Solutions,009830.KS,$2.00 B,Basic Materials,Chemicals,2.0,11.899977596928
+62,LOTTE Chemical,011170.KS,$1.90 B,Basic Materials,Chemicals,1.9,20.16200884224
+63,CJ Group,001040.KS,$1.85 B,Industrials,Conglomerates,1.85,42.403692019712
+64,LEENO Industrial,058470.KQ,$1.82 B,Technology,Semiconductors,1.82,0.080720150528
+65,Fila,081660.KS,$1.73 B,Consumer Cyclical,Leisure,1.73,4.10893418496
+66,JYP Entertainment,035900.KQ,$1.71 B,Communication Services,Entertainment,1.71,0.52893106176
+67,Kumho Petrochemical,011780.KS,$1.64 B,Basic Materials,Specialty Chemicals,1.64,6.543121580032
+68,Pearl Abyss,263750.KQ,$1.50 B,Communication Services,Electronic Gaming & Multimedia,1.5,0.336573169664
+69,Nongshim,004370.KS,$1.48 B,Consumer Defensive,Packaged Foods,1.48,3.44588550144
+70,Asiana Airlines,020560.KS,$1.47 B,Industrials,Airlines,1.47,8.07456735232
+71,Hanmi Pharmaceutical,008930.KS,$1.43 B,Healthcare,Medical Distribution,1.43,1.270534897664
+72,F&F Co,383220.KS,$1.41 B,Consumer Cyclical,Apparel Manufacturing,1.41,1.988119887872
+73,Pan Ocean,028670.KS,$1.29 B,Industrials,Marine Shipping,1.29,4.513928839168
+74,SM Entertainment,041510.KQ,$1.29 B,Communication Services,Entertainment,1.29,0.991315492864
+75,BGF Retail,282330.KS,$1.24 B,Consumer Defensive,Grocery Stores,1.24,8.29901242368
+76,KCC Corp,002380.KS,$1.22 B,Basic Materials,Chemicals,1.22,6.502254379008
+77,Kakao Games,293490.KQ,$1.19 B,Communication Services,Electronic Gaming & Multimedia,1.19,0.91592392704
+78,LOTTE Corporation,004990.KS,$1.07 B,Consumer Defensive,Confectioners,1.07,15.686989512704
+79,HiteJinro,000080.KS,$1.01 B,Consumer Defensive,Beverages - Wineries & Distilleries,1.01,2.56154271744
+80,Ottogi,007310.KS,$0.99 B,Consumer Defensive,Packaged Foods,0.99,3.486345854976
+81,Wemade,112040.KQ,$0.97 B,Communication Services,Entertainment,0.97,0.607
+82,SD BioSensor,137310.KS,$0.96 B,Healthcare,Medical Instruments & Supplies,0.96,0.654488764416
+83,Shinsegae,004170.KS,$0.82 B,Consumer Cyclical,Department Stores,0.82,6.426896367616
+84,Hansol Chemical,014680.KS,$0.79 B,Basic Materials,Chemicals,0.79,0.776698396672
+85,Doosan Fuel Cell,336260.KS,$0.79 B,Industrials,Electrical Equipment & Parts,0.79,0.260886183936
+86,DoubleUGames,192080.KS,$0.75 B,Communication Services,Electronic Gaming & Multimedia,0.75,0.61670916096
+87,Nat Games (Nexon Games),225570.KQ,$0.63 B,Communication Services,Electronic Gaming & Multimedia,0.63,0.24893284352
+88,YG Entertainment,122870.KQ,$0.62 B,Communication Services,Entertainment,0.62,0.430786183168
+89,KG Mobility (SsangYong Motor),003620.KS,$0.55 B,Consumer Cyclical,Auto Manufacturers,0.55,3.632646324224
+90,Jeju Air,089590.KS,$0.49 B,Industrials,Airlines,0.49,1.930163781632
+91,Gravity Co.,GRVY,$0.46 B,Communication Services,Electronic Gaming & Multimedia,0.46,0.551118176256
+92,NHN Corp,181710.KS,$0.43 B,Communication Services,Electronic Gaming & Multimedia,0.43,2.373643403264
+93,Com2uS,078340.KQ,$0.40 B,Communication Services,Electronic Gaming & Multimedia,0.4,0.653238206464
+94,T’way Air,091810.KS,$0.40 B,Industrials,Airlines,0.4,1.452788416512
+95,Koh Young Technology,098460.KQ,$0.39 B,Technology,Semiconductor Equipment & Materials,0.39,0.214474948608
+96,Jin Air,272450.KS,$0.38 B,Industrials,Airlines,0.38,1.01385895936
+97,Shinpoong Pharm,019170.KS,$0.37 B,Healthcare,Drug Manufacturers - Specialty & Generic,0.37,0.208775921664
+98,Webzen,069080.KQ,$0.32 B,Communication Services,Entertainment,0.32,0.242
+99,Neowiz Games,095660.KQ,$0.27 B,Communication Services,Entertainment,0.27,0.3656
+100,Devsisters,194480.KQ,$0.23 B,Communication Services,Electronic Gaming & Multimedia,0.23,0.186565443584
