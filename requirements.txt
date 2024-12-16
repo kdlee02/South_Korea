@@ -1,6 +1,5 @@
 pandas
-numpy<2
-math
+numpy
 streamlit
 requests
 plotly
