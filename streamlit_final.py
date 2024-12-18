@@ -11,6 +11,18 @@ st.set_page_config(page_title="South Korea's Exports and Companies",
                    page_icon="🇰🇷",
                    layout="wide")
 
+st.markdown(
+    """
+    <style>
+    body {
+        background-color: black;
+        color: white;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 # used to extract south korea's data using api
 country_symbol = 'askor'
 
