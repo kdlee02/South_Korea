@@ -383,7 +383,7 @@ if mode == "South Korea Companies":
     fig = alt.Chart(company).mark_point().encode(
         alt.X('Market_Cap:Q').scale(type='log').axis(ticks=False,grid=False,title='Market Cap (B)'),
         alt.Y('Revenue:Q').scale(type='log').axis(ticks=False,grid=False,title='Revenue (조)'),
-        color = alt.condition(selection,'Sector:N',alt.value('lightgray')),
+        color = alt.condition(selection,'Sector:N',alt.value('black')),
         tooltip=['Company','Industry'] # when hovered display company name
     ).add_params(
             selection).interactive()
@@ -392,7 +392,7 @@ if mode == "South Korea Companies":
     fig2 = alt.Chart(company).mark_point().encode(
         alt.X('Market_Cap:Q').scale(type='log').axis(ticks=False,grid=False,title='Market Cap (B)'),
         alt.Y('Revenue:Q').scale(type='log').axis(ticks=False,grid=False,title='Revenue (조)'),
-        color = alt.condition(selections,'Sector:N',alt.value('lightgray')),
+        color = alt.condition(selections,'Sector:N',alt.value('black')),
         tooltip=['Company','Sector']
     ).add_params(
             selections).interactive()
