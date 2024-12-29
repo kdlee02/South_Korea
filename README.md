@@ -1,4 +1,4 @@
-# South_Korea
+# South Korea Exports and Companies
 
 visit this website: https://datavisualizationhongik.streamlit.app/
 
