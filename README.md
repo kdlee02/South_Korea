@@ -2,4 +2,4 @@
 
 visit this website: https://datavisualizationhongik.streamlit.app/
 
-It visualizes South Korea's export countries and products along with top companies.
+This project visualizes South Korea's export destinations and products, along with its top companies. It utilizes Streamlit for creating an interactive dashboard and leverages Plotly and Altair for generating dynamic and insightful graphs.
